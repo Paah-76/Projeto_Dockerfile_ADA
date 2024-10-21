@@ -40,5 +40,5 @@ O `json-server` estará disponível em:
 http://localhost:3000
 ```
 
-### Dockerhun
+### Dockerhub
 - Link da imagem [aqui](https://hub.docker.com/r/paahr/sistema-eventos).
